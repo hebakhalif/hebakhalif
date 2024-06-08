@@ -6,12 +6,6 @@
 <br>
 
 <div>
-  <img src="https://github.com/dionyysus/dionyysus/assets/59100182/1f64ff8c-4324-4602-9d2e-159c9f6cbd79"
- width="auto">
-</div>
-
-
-<div>
     <h2 align=left> Connect With Me </h2>
 </div>
 
