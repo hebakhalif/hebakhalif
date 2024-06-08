@@ -13,20 +13,5 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heba_.198?igsh=MWhtY3RmaXl5enhleg%3D%3D&utm_source=qr)
 
 
-<div>
-    <h2 align=left> Github Stats</h2>
-</div>
-<table>
-    <tr>
-        <td colspan="2" rowspan="2">
-            <a href = "https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=dionyysus&theme=blueberry_duo">
-            </a>
-        </a>
-        </td>
-        <td colspan="2" rowspan="2">
-        <img src="https://github-readme-stats.vercel.app/api?username=dionyysus&theme=github_dark&show_icons=true">
-        </a>
-        </td>
-    </tr>
-</table>
+
+
