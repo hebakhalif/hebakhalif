@@ -1,4 +1,3 @@
- <img alt="Hola" height="30px" width="40px" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png"></img>
 
 </div>
 <h1 align="center">Hi 👋, I'm Heba Khalifah</h1>
